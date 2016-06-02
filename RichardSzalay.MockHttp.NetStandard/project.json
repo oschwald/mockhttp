@@ -6,6 +6,7 @@
   },
 
   "buildOptions": {
+    "keyFile": "..\\RichardSzalay.MockHttp.Shared\\MockHttp.snk",
     "compile": [
       "../RichardSzalay.MockHttp.Shared/**/*.cs",
       "../AssemblyVersionInfo.cs"
